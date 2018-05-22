@@ -17,7 +17,7 @@ night_room      : 3
 regonline       : No
 status          : add details
 pre_summit      : Sat,Sun
-sessions:
+sessions:-GDPR Compliance what does it mean? -European GDPR Variations
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 ---
 
